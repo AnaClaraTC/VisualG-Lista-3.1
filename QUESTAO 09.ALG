@@ -1,6 +1,4 @@
 Algoritmo "Questao 09"
-// Lógica de Programação 
-// Fabrício Curvello 
 //Fazer um algoritmo que pergunte 1 número e apresente:
 //a) O próprio número
 //b) O quadrado deste número
